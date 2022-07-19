@@ -1,2 +1,2 @@
 ### LinkedIn clone
-![image](https://imgur.com/K6r51qw)
+![image](https://imgur.com/K6r51qw.png)
